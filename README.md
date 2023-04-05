@@ -1,1 +1,4 @@
 # generic
+
+percobaan
+latihan
